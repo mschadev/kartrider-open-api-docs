@@ -2,7 +2,7 @@
 name: API 문제
 about: API에 문제가 있는 경우
 title: ''
-labels: ''
+labels: API
 assignees: ''
 
 ---
