@@ -1,0 +1,163 @@
+[
+  {
+    "Key": 1,
+    "Name": "카보블레이드",
+    "Effect": "드리프트 탈출력 +4부스터 게이지 충전 속도 +1코너 가속 +2",
+    "Description": "신비한 뜨거운 대륙을 지키는 신! 카보의 석상 아래에서 발견한 블레이드를 휠로 만든 카보 블레이드 입니다. \"카보님 카보님 마리드는요~ 다오가 마리드를 좋아했으면 좋겠어요. 도와주세요.\" - 뜨거운 대륙까지 소원 빌러간 마리드",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/VB1Fwg6z3W45_1.gif"
+  },
+  {
+    "Key": 2,
+    "Name": "닥터R 파이어 디스크",
+    "Effect": "부스터 게이지 충전 속도 +2드리프트 감속 +24",
+    "Description": "닥터 R이 만들어낸 카트 조작프로그램이 적용된 특수 휠 입니다. 파이어 디스크는 시동 시 발생하는 파워를 따로 담아 성능향상 동력으로 사용합니다. \"흐음~ 카트는 참 재미있다니까~ 어머 이 빛나는 건 꼭 요정같네?\" - 붐힐에 놀러온 나이아드",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/aEFdYrhrDw45_2.gif"
+  },
+  {
+    "Key": 3,
+    "Name": "크로스 워커",
+    "Effect": "드리프트 탈출력 +4아이템전 특수 부스터 길이 +10",
+    "Description": "굵은 타이어! 묵직한 휠! 마치 군화를 연상케 하는 투박하고 큰 타이어를 장착하면 그 형태만큼이나 선 굵은 능력을 보여준다고 합니다. 어떠한 길도 내 맘대로~ 전천후 타이어의 능력으로 펀 드라이빙을 즐겨보세요. \"비가 오면 기분이 좋아지는 것 같아. 히~\" - 5분 후에 우박이 떨어질 것을 모르는 디지니",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/lYIHN5qNSy45_3.gif"
+  },
+  {
+    "Key": 4,
+    "Name": "블랙 디스크 휠",
+    "Effect": "부스터 게이지 충전 속도 +2",
+    "Description": "제작된 디스크 휠 중 가장 잘 만들어진 디스크에는 각각 용도에 따라 블랙 혹은 화이트 컬러를 칠해 성능을 표시해 준다고 합니다.",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/04hR8lZ2cy45_4.gif"
+  },
+  {
+    "Key": 5,
+    "Name": "화이트 디스크 휠",
+    "Effect": "부스터 게이지 충전 속도 +1아이템전 특수 부스터 길이 +10",
+    "Description": "제작된 디스크 휠 중 가장 잘 만들어진 디스크에는 각각 용도에 따라 블랙 혹은 화이트 컬러를 칠해 성능을 표시해 준다고 합니다.",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/7rzR6YbMbt45_5.gif"
+  },
+  {
+    "Key": 6,
+    "Name": "블랙 오프로드 휠",
+    "Effect": "드리프트 탈출력 +3",
+    "Description": "베거이 사막을 질주하는 카트들의 바퀴를 연구하여 만들어진 오프로드 휠은 지형에 상관없이 어떠한 곳이든 갈 수 있도록 만들어져 있습니다. 특히 미끌어질 수 있는 곳에서도 든든하게 버텨주는 능력이 일품입니다.",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/qfY0KrH9Q845_6.gif"
+  },
+  {
+    "Key": 7,
+    "Name": "화이트 오프로드 휠",
+    "Effect": "드리프트 탈출력 +2코너 가속 +1",
+    "Description": "베거이 사막을 질주하는 카트들의 바퀴를 연구하여 만들어진 오프로드 휠은 지형에 상관없이 어떠한 곳이든 갈 수 있도록 만들어져 있습니다. 특히 미끌어질 수 있는 곳에서도 든든하게 버텨주는 능력이 일품입니다.",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/4Fc9jaXyNZ45_7.gif"
+  },
+  {
+    "Key": 8,
+    "Name": "옐로우 디스크 휠",
+    "Effect": "부스터 게이지 충전 속도 +1",
+    "Description": "선수용 자전거에서 주로 쓰던 디스크 방식의 휠을 카트에 적용한 것은 상상을 초월한 대 사건이었습니다.",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/DA1qmHSV0l45_8.gif"
+  },
+  {
+    "Key": 9,
+    "Name": "블루 디스크 휠",
+    "Effect": "부스터 게이지 충전 속도 +2드리프트 탈출력 -1",
+    "Description": "선수용 자전거에서 주로 쓰던 디스크 방식의 휠을 카트에 적용한 것은 상상을 초월한 대 사건이었습니다.",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/GPDRQDU9mD45_9.gif"
+  },
+  {
+    "Key": 10,
+    "Name": "퍼플 디스크 휠",
+    "Effect": "부스터 게이지 충전 속도 +4드리프트 탈출력 -3",
+    "Description": "선수용 자전거에서 주로 쓰던 디스크 방식의 휠을 카트에 적용한 것은 상상을 초월한 대 사건이었습니다.",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/LhxRlrMeA345_10.gif"
+  },
+  {
+    "Key": 11,
+    "Name": "그린 디스크 휠",
+    "Effect": "부스터 게이지 충전 속도 +3드리프트 탈출력 -2",
+    "Description": "선수용 자전거에서 주로 쓰던 디스크 방식의 휠을 카트에 적용한 것은 상상을 초월한 대 사건이었습니다.",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/4PnehkFSCV45_11.gif"
+  },
+  {
+    "Key": 12,
+    "Name": "옐로우 오프로드 휠",
+    "Effect": "드리프트 탈출력 +1",
+    "Description": "베거이 사막을 질주하는 카트들의 바퀴를 연구하여 만들어진 오프로드 휠은 지형에 상관없이 어떠한 곳이든 갈 수 있도록 만들어져 있습니다. 특히 미끌어질 수 있는 곳에서도 든든하게 버텨주는 능력이 일품입니다.",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/hLo2QCuSlS45_12.gif"
+  },
+  {
+    "Key": 13,
+    "Name": "블루 오프로드 휠",
+    "Effect": "드리프트 탈출력 +2",
+    "Description": "베거이 사막을 질주하는 카트들의 바퀴를 연구하여 만들어진 오프로드 휠은 지형에 상관없이 어떠한 곳이든 갈 수 있도록 만들어져 있습니다. 특히 미끌어질 수 있는 곳에서도 든든하게 버텨주는 능력이 일품입니다.",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/gIrJ6iyTuW45_13.gif"
+  },
+  {
+    "Key": 14,
+    "Name": "그린 오프로드 휠",
+    "Effect": "[아이템전 전용]드리프트 탈출력 +3부스터 게이지 충전 속도 -1",
+    "Description": "베거이 사막을 질주하는 카트들의 바퀴를 연구하여 만들어진 오프로드 휠은 지형에 상관없이 어떠한 곳이든 갈 수 있도록 만들어져 있습니다. 특히 미끌어질 수 있는 곳에서도 든든하게 버텨주는 능력이 일품입니다.",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/7KiiKhRzmE45_14.gif"
+  },
+  {
+    "Key": 15,
+    "Name": "퍼플 오프로드 휠",
+    "Effect": "드리프트 탈출력 +4부스터 게이지 충전 속도 -2",
+    "Description": "베거이 사막을 질주하는 카트들의 바퀴를 연구하여 만들어진 오프로드 휠은 지형에 상관없이 어떠한 곳이든 갈 수 있도록 만들어져 있습니다. 특히 미끌어질 수 있는 곳에서도 든든하게 버텨주는 능력이 일품입니다.",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/5pihEKTWEg45_15.gif"
+  },
+  {
+    "Key": 16,
+    "Name": "옐로우 프레임",
+    "Effect": "충돌 방어력 +1코너 가속 +1",
+    "Description": "강력한 프레임은 충돌로 부터 차체를 보호합니다.",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/LAkcwBZgaa45_16.gif"
+  },
+  {
+    "Key": 17,
+    "Name": "퍼플 프레임",
+    "Effect": "충돌 방어력 +1최고 속도 +1",
+    "Description": "강력한 프레임은 충돌로 부터 차체를 보호합니다.",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/klmxAAdi0j45_17.gif"
+  },
+  {
+    "Key": 18,
+    "Name": "블루 프레임",
+    "Effect": "충돌 방어력 +1부스터 게이지 충전 속도 +1",
+    "Description": "강력한 프레임은 충돌로 부터 차체를 보호합니다.",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/rR8syT0QuH45_18.gif"
+  },
+  {
+    "Key": 19,
+    "Name": "그린 프레임",
+    "Effect": "충돌 방어력 +2",
+    "Description": "강력한 프레임은 충돌로 부터 차체를 보호합니다.",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/OBgCi3Wa8r45_19.gif"
+  },
+  {
+    "Key": 20,
+    "Name": "화이트 프레임",
+    "Effect": "충돌 방어력 +2부스터 게이지 충전 속도 +1",
+    "Description": "강력한 프레임은 충돌로 부터 차체를 보호합니다.",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/3VFGPIKP7d45_20.gif"
+  },
+  {
+    "Key": 21,
+    "Name": "블랙 프레임",
+    "Effect": "충돌 방어력 +3",
+    "Description": "강력한 프레임은 충돌로 부터 차체를 보호합니다.",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/ozQvE8CJsP45_21.gif"
+  },
+  {
+    "Key": 22,
+    "Name": "어스퀘이크",
+    "Effect": "충돌 방어력 +4드리프트 탈출력 +2",
+    "Description": "차체 자동 복구 능력을 어스퀘이크는 어떠한 충돌 속에서도 자동으로 바퀴의 회전량을 개별로 조절하여 피해량을 줄여주는 역할을 합니다.\"디지털 따위…\" - 네오",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/KiNVxZokIb45_22.gif"
+  },
+  {
+    "Key": 23,
+    "Name": "와일드 서클",
+    "Effect": "드리프트 탈출력 +5코너 가속 +1",
+    "Description": "브로디 인더스트리에서 만들어낸 오프로드 타이어의 걸작 타이어 와일드 서클 입니다. 남쪽 먼 바다의 섬에서만 채취되는 접착력 좋은 특수 고무나무액으로 만들어진 특별한 타이어로 엄청난 접지력을 보여줍니다. 공정이 모두 수작업으로 진행되어 일년에 몇 개만 만들어낼 수 있다고 합니다.\"키이이~나이이아아드으으으\" - 브로디",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/BSartvlDM645_23.gif"
+  }
+]

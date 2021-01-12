@@ -1,0 +1,107 @@
+[
+  {
+    "Key": 1,
+    "Name": "바이킹 배틀",
+    "Effect": "코너 가속 +1드리프트 감속 +5회전 감속 +13회전 민첩성 +13",
+    "Description": "바이킹들은 커다란 배를 파도가 넘실대는 바다 위에서도 자유자재로 조정했다고 합니다. 바이킹 조정의 비밀을 풀기 위해 제작된 조정간 형태의 핸들 바이킹 배틀입니다. 바이킹 배틀 핸들을 사용하면 어떠한 난코스도 날렵하게 휙휙~ 회전할 수 있다고 해요~\"이 조정간을 가져가게 용감한 라이더. 자네라면 다룰 수 있을 거야.\" - 캡틴 베히모스",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/mCS1BmDgFN44_1.gif"
+  },
+  {
+    "Key": 2,
+    "Name": "엑스 스트림",
+    "Effect": "[스피드전 전용]회전 감속 +4회전 민첩성 +20코너 가속 +2",
+    "Description": "극한의 스피드를 견디기위해선 최고의 무기가 필요한 법! 엑스 스트림은 점점 빨라지는 카트의 속도에 맞춰 최고의 성능을 발휘할 수 있도록 개량된 레이서 최고의 무기입니다. 붉은 운전대에서 발하는 강력한 핸들링 파워는 단순히 조작 능력에서 그치지 않고 차체의 성능에도 영향을 줄 정도 입니다. \"음모… 또 음모… 음모 뿐인 세상에 질리는 군…\" - 포뮬러 대회를 조사 중인 네오",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/mKWUKtsQTz44_2.gif"
+  },
+  {
+    "Key": 3,
+    "Name": "샤프 라이너",
+    "Effect": "드리프트 감속 +13회전 민첩성 +13",
+    "Description": "베일 듯이 날카로운 코너링을 꿈꾸는 라이더라면 샤프 라이너의 성능에 감탄을 할 수 밖에 없습니다. 어떠한 무거운 카트도 가볍게 만들어주는 독특한 성능에 반하지 않는다면 거짓말쟁이~\"거짓말!\" - 케피의 다이어트 소식을 들은 다오",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/VcDnmZwJKQ44_3.gif"
+  },
+  {
+    "Key": 4,
+    "Name": "퍼펙트 블랙 핸들",
+    "Effect": "회전 민첩성 +7",
+    "Description": "완성된 레이싱 핸들이 수천회 주행 테스트를 통해 문제가 없다고 검증이 되면 블랙 혹은 화이트 색상을 칠해 이를 표시해 준다고 합니다. 완벽한 검증을 통한 퍼펙트한 핸들의 주행 능력을 느껴보세요",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/i51pdrmFtT44_4.gif"
+  },
+  {
+    "Key": 5,
+    "Name": "퍼펙트 화이트 핸들",
+    "Effect": "회전 민첩성 +3회전 감속 +7",
+    "Description": "완성된 레이싱 핸들이 수천회 주행 테스트를 통해 문제가 없다고 검증이 되면 블랙 혹은 화이트 색상을 칠해 이를 표시해 준다고 합니다. 완벽한 검증을 통한 퍼펙트한 핸들의 주행 능력을 느껴보세요",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/QvLSNVPFPN44_5.gif"
+  },
+  {
+    "Key": 6,
+    "Name": "다크 크로스",
+    "Effect": "회전 감속 +7",
+    "Description": "세상에 이런 일이! 장착만해도 코너로 빨려 들어가는 핸들이 있다?! 다크 크로스는 블랙홀 처럼 카트를 코너로 빨아들이는 무서운 힘을 보여줄 것입니다.",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/IycG2VBFBN44_6.gif"
+  },
+  {
+    "Key": 7,
+    "Name": "홀리 커브",
+    "Effect": "회전 감속 +5",
+    "Description": "십자형 핸들의 약점을 최소화한 핸들이 탄생하자 개발자들은 탄성을 질렀다고 합니다. 홀리 커브를 장착하면 환상적인 코너링을 할 수 있을 지도 모릅니다.",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/mmhHg103WH44_7.gif"
+  },
+  {
+    "Key": 8,
+    "Name": "옐로우 레이싱 핸들",
+    "Effect": "좌우 회전 각도 증가 +1",
+    "Description": "급박한 상황에서 제일 중요한 것은? 핸들링~ 가장 치열하게 펼쳐지는 레이서들을 위해 제작된 레이싱 핸들을 달면 나에게 필요한 조작감을 만들 수 있다고 해요",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/vIMR6fY7hZ44_8.gif"
+  },
+  {
+    "Key": 9,
+    "Name": "블루 레이싱 핸들",
+    "Effect": "좌우 회전 각도 증가 +2",
+    "Description": "급박한 상황에서 제일 중요한 것은? 핸들링~ 가장 치열하게 펼쳐지는 레이서들을 위해 제작된 레이싱 핸들을 달면 나에게 필요한 조작감을 만들 수 있다고 해요",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/rgFBb0KQAp44_9.gif"
+  },
+  {
+    "Key": 10,
+    "Name": "그린 레이싱 핸들",
+    "Effect": "좌우 회전 각도 증가 +4",
+    "Description": "급박한 상황에서 제일 중요한 것은? 핸들링~ 가장 치열하게 펼쳐지는 레이서들을 위해 제작된 레이싱 핸들을 달면 나에게 필요한 조작감을 만들 수 있다고 해요",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/S8dorHY40L44_10.gif"
+  },
+  {
+    "Key": 11,
+    "Name": "퍼플 레이싱 핸들",
+    "Effect": "좌우 회전 각도 감소 -2",
+    "Description": "급박한 상황에서 제일 중요한 것은? 핸들링~ 가장 치열하게 펼쳐지는 레이서들을 위해 제작된 레이싱 핸들을 달면 나에게 필요한 조작감을 만들 수 있다고 해요",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/21Lo4nCugi44_11.gif"
+  },
+  {
+    "Key": 12,
+    "Name": "옐로우 십자형 핸들",
+    "Effect": "드리프트 감속 +11회전 감속 +2",
+    "Description": "십자형 핸들은 빠른 핸들링이 카트의 성능을 증가시킨다는 새로운 철학을 만들기 위해 탄생하였습니다. 코너 속도를 올리기 위해 전진 속도가 조금 희생되기는 하였습니다만 코너가 많은 트랙에서는 최고의 성능을 발휘할 수 있습니다.",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/Te6pfdo1vE44_12.gif"
+  },
+  {
+    "Key": 13,
+    "Name": "블루 십자형 핸들",
+    "Effect": "드리프트 감속 +8회전 감속 +2",
+    "Description": "십자형 핸들은 빠른 핸들링이 카트의 성능을 증가시킨다는 새로운 철학을 만들기 위해 탄생하였습니다. 코너 속도를 올리기 위해 전진 속도가 조금 희생되기는 하였습니다만 코너가 많은 트랙에서는 최고의 성능을 발휘할 수 있습니다.",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/7HnZDaLt4r44_13.gif"
+  },
+  {
+    "Key": 14,
+    "Name": "그린 십자형 핸들",
+    "Effect": "",
+    "Description": "십자형 핸들은 빠른 핸들링이 카트의 성능을 증가시킨다는 새로운 철학을 만들기 위해 탄생하였습니다. 코너 속도를 올리기 위해 전진 속도가 조금 희생되기는 하였습니다만 코너가 많은 트랙에서는 최고의 성능을 발휘할 수 있습니다.",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/5dRXeGBfuA44_14.gif"
+  },
+  {
+    "Key": 15,
+    "Name": "퍼플 십자형 핸들",
+    "Effect": "드리프트 감속 +3회전 감속 +4",
+    "Description": "십자형 핸들은 빠른 핸들링이 카트의 성능을 증가시킨다는 새로운 철학을 만들기 위해 탄생하였습니다. 코너 속도를 올리기 위해 전진 속도가 조금 희생되기는 하였습니다만 코너가 많은 트랙에서는 최고의 성능을 발휘할 수 있습니다.",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/u67fOxrcy944_15.gif"
+  }
+]

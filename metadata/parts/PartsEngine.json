@@ -1,0 +1,163 @@
+[
+  {
+    "Key": 1,
+    "Name": "블랙 큐브",
+    "Effect": "최고 속도 +1변신 부스터 가속 +1스피드 스타트 부스터 가속력 +1",
+    "Description": "강력한 힘을 감추고 신비로운 빛을 발하는 큐브입니다. 장착하면 카트가 가진 힘을 강제로 부여하는 놀라운 능력을 갖추고 있습니다. 부품계의 판타지 스타 답게 멀티 퍼포먼스가 증가합니다.\"요리조리 이러쿵저러쿵~ 엔진이 혼란에 빠지면 나도 모르는 일이 벌어진다고. 낄낄낄\" - 닥터 R",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/yzoG4EJlWX43_1.gif"
+  },
+  {
+    "Key": 2,
+    "Name": "시크릿 코드",
+    "Effect": "변신 부스터 가속 +1가속도 +2",
+    "Description": "신비로운 붉은 보석 안에 감추어진 힘이 개방되면 어떤 능력이 펼쳐질까요? 제로스톤 깊은 곳에서 채굴된 빛나는 붉은 보석을 가공하여 제작된 시크릿 코드! 엔진에 부착하면 처음 보는 엄청난 힘이 발휘된다고 합니다.\"빨간색. 좋아. 으흥흥\" - 누워있는 배찌",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/cwPoHJq2qY43_2.gif"
+  },
+  {
+    "Key": 3,
+    "Name": "포뮬러 링",
+    "Effect": "스피드 스타트 부스터 가속력 +1스피드 스타트 부스터 지속 시간 +1",
+    "Description": "새롭게 탄생한 포뮬러 링! 레이스 시작 후 가장 빠르게 선두를 차지할 수 있도록 특수 제작된 포뮬러 링입니다. 포뮬러 링을 장착 시 가장 앞에서 달리고 있는 자신을 발견할 수 있습니다.\"나이아드… 봤다… 브로디 마음... 가장 빠르게 달려간다…\" - 몸에서 연기가 나는 브로디",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/bNTHNHjcYU43_3.gif"
+  },
+  {
+    "Key": 4,
+    "Name": "블랙 제어센서",
+    "Effect": "스피드 스타트 부스터 가속력 +3",
+    "Description": "엔진의 대명사 블랙 엔진 더 강해진 스타트 부스터 사용이 가능합니다.",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/ECJkrZKj5P43_4.gif"
+  },
+  {
+    "Key": 5,
+    "Name": "화이트 제어센서",
+    "Effect": "아이템 스타트 부스터 가속력 +3",
+    "Description": "엔진의 백색혁명! 제어를 통해 카트의 향상된 능력을 경험하게 해주는 화이트 제어센서를 달면 아이템전 스타트 시 부스터가 더 빨라집니다..",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/FLqzy6cno843_5.gif"
+  },
+  {
+    "Key": 6,
+    "Name": "블랙 베어링",
+    "Effect": "[스피드전 전용]최고속도 +3",
+    "Description": "일반 베어링 보다 더욱 향상된 블랙 베어링 입니다. 고급스러운 검정색으로 칠해졌을 뿐 아니라 강화된 힘이 더 강해졌습니다.",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/zmkquGI89u43_6.gif"
+  },
+  {
+    "Key": 7,
+    "Name": "화이트 베어링",
+    "Effect": "최고속도 +2",
+    "Description": "전천후로 사용할 수 있는 흰색 베어링 입니다. 카트가 달리는 능력을 조금씩 상승시켜 줍니다.",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/AGA1JKQCE443_7.gif"
+  },
+  {
+    "Key": 8,
+    "Name": "옐로우 제어센서",
+    "Effect": "[스피드전 전용]가속도 +1스피드 스타트 부스터 가속력 +1",
+    "Description": "힘의 사용을 제어할 수 있게 만들어진 제어센서 입니다. 드리프트 시 사용되는 힘을 일부 전진하는 힘으로 변환시킬 수 있도록 동력을 제어합니다.",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/NiYR3SXilJ43_8.gif"
+  },
+  {
+    "Key": 9,
+    "Name": "블루 제어센서",
+    "Effect": "가속도 +1스피드 스타트 부스터 가속력 +1",
+    "Description": "힘의 사용을 제어할 수 있게 만들어진 제어센서 입니다. 드리프트 시 사용되는 힘을 일부 전진하는 힘으로 변환시킬 수 있도록 동력을 제어합니다.",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/MQN1gwwOAp43_9.gif"
+  },
+  {
+    "Key": 10,
+    "Name": "그린 제어센서",
+    "Effect": "[스피드전 전용]가속도 +2",
+    "Description": "힘의 사용을 제어할 수 있게 만들어진 제어센서 입니다. 드리프트 시 사용되는 힘을 일부 전진하는 힘으로 변환시킬 수 있도록 동력을 제어합니다.",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/ENGnuFUGmc43_10.gif"
+  },
+  {
+    "Key": 11,
+    "Name": "퍼플 제어센서",
+    "Effect": "가속도 +2",
+    "Description": "힘의 사용을 제어할 수 있게 만들어진 제어센서 입니다. 드리프트 시 사용되는 힘을 일부 전진하는 힘으로 변환시킬 수 있도록 동력을 제어합니다.",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/q4Klfr8FNU43_11.gif"
+  },
+  {
+    "Key": 12,
+    "Name": "옐로우 베어링",
+    "Effect": "최고속도 +1, 가속도 +1",
+    "Description": "카트가 전진할 때 발생하는 마찰을 줄여주기 위해 제작된 베어링 입니다. 전진력이 강해진 만큼 회전이 조금 어려워질 수 있습니다.",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/BSCnCeZV4S43_12.gif"
+  },
+  {
+    "Key": 13,
+    "Name": "블루 베어링",
+    "Effect": "[스피드전 전용]최고속도 +1, 가속도 +1",
+    "Description": "카트가 전진할 때 발생하는 마찰을 줄여주기 위해 제작된 베어링 입니다. 전진력이 강해진 만큼 회전이 조금 어려워질 수 있습니다.",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/LAMUBeoYtG43_13.gif"
+  },
+  {
+    "Key": 14,
+    "Name": "그린 베어링",
+    "Effect": "최고속도 +1",
+    "Description": "카트가 전진할 때 발생하는 마찰을 줄여주기 위해 제작된 베어링 입니다. 전진력이 강해진 만큼 회전이 조금 어려워질 수 있습니다.",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/4kFpndnS8Z43_14.gif"
+  },
+  {
+    "Key": 15,
+    "Name": "퍼플 베어링",
+    "Effect": "[스피드전 전용]최고속도 +2",
+    "Description": "카트가 전진할 때 발생하는 마찰을 줄여주기 위해 제작된 베어링 입니다. 전진력이 강해진 만큼 회전이 조금 어려워질 수 있습니다.",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/aHtHAY9Fqk43_15.gif"
+  },
+  {
+    "Key": 16,
+    "Name": "옐로우 쇼크",
+    "Effect": "변신 부스터 가속 +0.1최고속도 +2",
+    "Description": "전기 충격으로 부스터 가속력을 상승시킬 수 있습니다.",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/KXRGZYaTmT43_16.gif"
+  },
+  {
+    "Key": 17,
+    "Name": "퍼플 쇼크",
+    "Effect": "변신 부스터 가속 +0.2최고속도 +1",
+    "Description": "전기 충격으로 부스터 가속력을 상승시킬 수 있습니다.",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/t8UiiKDncP43_17.gif"
+  },
+  {
+    "Key": 18,
+    "Name": "블루 쇼크",
+    "Effect": "변신 부스터 가속 +0.1가속도 +2",
+    "Description": "전기 충격으로 부스터 가속력을 상승시킬 수 있습니다.",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/MEUWgd9Ujl43_18.gif"
+  },
+  {
+    "Key": 19,
+    "Name": "그린 쇼크",
+    "Effect": "변신 부스터 가속 +0.2가속도 +1",
+    "Description": "전기 충격으로 부스터 가속력을 상승시킬 수 있습니다.",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/KuFIDPOFnG43_19.gif"
+  },
+  {
+    "Key": 20,
+    "Name": "화이트 쇼크",
+    "Effect": "변신 부스터 가속 +0.3가속도 +1",
+    "Description": "전기 충격으로 부스터 가속력을 상승시킬 수 있습니다.",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/5ewzNOaRcy43_20.gif"
+  },
+  {
+    "Key": 21,
+    "Name": "블랙 쇼크",
+    "Effect": "변신 부스터 가속 +0.4",
+    "Description": "전기 충격으로 부스터 가속력을 상승시킬 수 있습니다.",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/ir6zxhGBis43_21.gif"
+  },
+  {
+    "Key": 22,
+    "Name": "일렉트릭 쇼크",
+    "Effect": "변신 부스터 가속 +0.6최고 속도 +2",
+    "Description": "일렉트릭 쇼크는 엔진에 전기충격을 가해 오버클럭을 통한 변신 부스터 가속을 돕는 기능을 가지고 있습니다. \"치이직, 전기, 치이직, 맛, 치이직, 맛있다.\" -브로디",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/iPGDBEW5W743_22.gif"
+  },
+  {
+    "Key": 23,
+    "Name": "태고의 빛",
+    "Effect": "변신 부스터 가속 +1스피드 스타트 부스터 지속 시간 +2가속도 +1",
+    "Description": "붐힐 깊은 광산에서 일하던 인부들이 쏟아지는 빛에 눈이 부셔 더 이상 일을 할 수 없게 되었습니다. 고글을 써도 바라볼 수 없던 빛을 티이라의 마법으로 간신히 다룰 수 있게 되었는데 이것은 땅이 생기기 전부터 있던 고대의 빛이라고 합니다. 모스가 아주 조금 떼어 부품으로 만들고 나니 어마어마한 힘이 생겨나게 되었답니다.\"베니비디비치\" - 투탑",
+    "ImageUrl": "https://ssl.nx.com/s2/game/kart/kart2006/image/item2/B792otjXxT43_23.gif"
+  }
+]
