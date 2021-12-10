@@ -1,0 +1,110 @@
+[
+    {
+        "id": "`versusMode_indiFastest`",
+        "name": "1 VS 1 대전(스피드, 빠름)"
+    },
+    {
+        "id": "`grandprix_speedIndi`",
+        "name": "스피드 개인전 그랑프리(빠름)"
+    },
+    {
+        "id": "`speedIndiCombine`",
+        "name": "스피드 개인전(통합)"
+    },
+    {
+        "id": "`speedIndiFastest`",
+        "name": "스피드 개인전(매우 빠름)"
+    },
+    {
+        "id": "`speedIndiInfinit`",
+        "name": "스피드 개인전(무한 부스터, 빠름)"
+    },
+    {
+        "id": "`speedTeamShadowInfinit`",
+        "name": "스피드 팀전(무한부스터 고스트, 빠름)"
+    },
+    {
+        "id": "`speedIndiFast`",
+        "name": "스피드 개인전(빠름)"
+    },
+    {
+        "id": "`speedIndiNewbie`",
+        "name": "스피드 개인전(초보 채널, 보통)"
+    },
+    {
+        "id": "`tierMatching_speedIndi`",
+        "name": "스피드 등급전(개인전, 매우빠름)"
+    },
+    {
+        "id": "`tierMatching_speedTeam`",
+        "name": "스피드 등급전(팀전, 매우빠름)"
+    },
+    {
+        "id": "`speedTeamCombine`",
+        "name": "스피드 팀전(통합)"
+    },
+    {
+        "id": "`speedTeamFastest`",
+        "name": "스피드 팀전(매우 빠름)"
+    },
+    {
+        "id": "`speedTeamInfinit`",
+        "name": "스피드 팀전(무한 부스터, 빠름)"
+    },
+    {
+        "id": "`speedIndiShadowInfinit`",
+        "name": "스피드 개인전(무한부스터 고스트, 빠름)"
+    },
+    {
+        "id": "`speedTeamFast`",
+        "name": "스피드 팀전(빠름)"
+    },
+    {
+        "id": "`speedTeamNewbie`",
+        "name": "스피드 팀전(초보 채널, 보통)"
+    },
+    {
+        "id": "`itemNewItemIndiFastest2Enchant`",
+        "name": "아이템 개인전(가장빠름)"
+    },
+    {
+        "id": "`grandprix_itemNewItemIndi`",
+        "name": "아이템 개인전(그랑프리, 빠름)"
+    },
+    {
+        "id": "`itemNewItemIndi`",
+        "name": "아이템 개인전(보통)"
+    },
+    {
+        "id": "`itemNewItemIndiNewbie`",
+        "name": "아이템 개인전(초보 채널, 보통)"
+    },
+    {
+        "id": "`tierMatching_itemNewItemTeam`",
+        "name": "아이템 등급전(팀전, 가장빠름)"
+    },
+    {
+        "id": "`battle`",
+        "name": "아이템 배틀(가장빠름)"
+    },
+    {
+        "id": "`itemNewItemTeamFastest2Enchant`",
+        "name": "아이템 팀전(가장빠름)"
+    },
+    {
+        "id": "`itemNewItemTeam`",
+        "name": "아이템 팀전(보통)"
+    },
+    {
+        "id": "`itemNewItemTeamNewbie`",
+        "name": "아이템 팀전(초보 채널, 보통)"
+    },
+    {
+        "id": "`clubRace_speed`",
+        "name": "클럽 레이싱(스피드, 매우빠름)"
+    },
+    {
+        "id": "`clubRace_item`",
+        "name": "클럽 레이싱(아이템, 가장빠름)"
+    }
+]
