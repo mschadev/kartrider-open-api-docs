@@ -1,110 +1,110 @@
 [
     {
-        "id": "`versusMode_indiFastest`",
+        "id": "versusMode_indiFastest",
         "name": "1 VS 1 대전(스피드, 빠름)"
     },
     {
-        "id": "`grandprix_speedIndi`",
+        "id": "grandprix_speedIndi",
         "name": "스피드 개인전 그랑프리(빠름)"
     },
     {
-        "id": "`speedIndiCombine`",
+        "id": "speedIndiCombine",
         "name": "스피드 개인전(통합)"
     },
     {
-        "id": "`speedIndiFastest`",
+        "id": "speedIndiFastest",
         "name": "스피드 개인전(매우 빠름)"
     },
     {
-        "id": "`speedIndiInfinit`",
+        "id": "speedIndiInfinit",
         "name": "스피드 개인전(무한 부스터, 빠름)"
     },
     {
-        "id": "`speedTeamShadowInfinit`",
+        "id": "speedTeamShadowInfinit",
         "name": "스피드 팀전(무한부스터 고스트, 빠름)"
     },
     {
-        "id": "`speedIndiFast`",
+        "id": "speedIndiFast",
         "name": "스피드 개인전(빠름)"
     },
     {
-        "id": "`speedIndiNewbie`",
+        "id": "speedIndiNewbie",
         "name": "스피드 개인전(초보 채널, 보통)"
     },
     {
-        "id": "`tierMatching_speedIndi`",
+        "id": "tierMatching_speedIndi",
         "name": "스피드 등급전(개인전, 매우빠름)"
     },
     {
-        "id": "`tierMatching_speedTeam`",
+        "id": "tierMatching_speedTeam",
         "name": "스피드 등급전(팀전, 매우빠름)"
     },
     {
-        "id": "`speedTeamCombine`",
+        "id": "speedTeamCombine",
         "name": "스피드 팀전(통합)"
     },
     {
-        "id": "`speedTeamFastest`",
+        "id": "speedTeamFastest",
         "name": "스피드 팀전(매우 빠름)"
     },
     {
-        "id": "`speedTeamInfinit`",
+        "id": "speedTeamInfinit",
         "name": "스피드 팀전(무한 부스터, 빠름)"
     },
     {
-        "id": "`speedIndiShadowInfinit`",
+        "id": "speedIndiShadowInfinit",
         "name": "스피드 개인전(무한부스터 고스트, 빠름)"
     },
     {
-        "id": "`speedTeamFast`",
+        "id": "speedTeamFast",
         "name": "스피드 팀전(빠름)"
     },
     {
-        "id": "`speedTeamNewbie`",
+        "id": "speedTeamNewbie",
         "name": "스피드 팀전(초보 채널, 보통)"
     },
     {
-        "id": "`itemNewItemIndiFastest2Enchant`",
+        "id": "itemNewItemIndiFastest2Enchant",
         "name": "아이템 개인전(가장빠름)"
     },
     {
-        "id": "`grandprix_itemNewItemIndi`",
+        "id": "grandprix_itemNewItemIndi",
         "name": "아이템 개인전(그랑프리, 빠름)"
     },
     {
-        "id": "`itemNewItemIndi`",
+        "id": "itemNewItemIndi",
         "name": "아이템 개인전(보통)"
     },
     {
-        "id": "`itemNewItemIndiNewbie`",
+        "id": "itemNewItemIndiNewbie",
         "name": "아이템 개인전(초보 채널, 보통)"
     },
     {
-        "id": "`tierMatching_itemNewItemTeam`",
+        "id": "tierMatching_itemNewItemTeam",
         "name": "아이템 등급전(팀전, 가장빠름)"
     },
     {
-        "id": "`battle`",
+        "id": "battle",
         "name": "아이템 배틀(가장빠름)"
     },
     {
-        "id": "`itemNewItemTeamFastest2Enchant`",
+        "id": "itemNewItemTeamFastest2Enchant",
         "name": "아이템 팀전(가장빠름)"
     },
     {
-        "id": "`itemNewItemTeam`",
+        "id": "itemNewItemTeam",
         "name": "아이템 팀전(보통)"
     },
     {
-        "id": "`itemNewItemTeamNewbie`",
+        "id": "itemNewItemTeamNewbie",
         "name": "아이템 팀전(초보 채널, 보통)"
     },
     {
-        "id": "`clubRace_speed`",
+        "id": "clubRace_speed",
         "name": "클럽 레이싱(스피드, 매우빠름)"
     },
     {
-        "id": "`clubRace_item`",
+        "id": "clubRace_item",
         "name": "클럽 레이싱(아이템, 가장빠름)"
     }
 ]
