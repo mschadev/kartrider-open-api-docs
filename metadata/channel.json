@@ -68,6 +68,10 @@
         "name": "아이템 개인전(통합)"
     },
     {
+        "id": "itemTeamCombine",
+        "name": "아이템 팀전(통합)"
+    },
+    {
         "id": "itemNewItemIndiFastest2Enchant",
         "name": "아이템 개인전(가장빠름)"
     },
