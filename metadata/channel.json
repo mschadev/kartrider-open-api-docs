@@ -64,6 +64,10 @@
         "name": "스피드 팀전(초보 채널, 보통)"
     },
     {
+        "id": "itemIndiCombine",
+        "name": "아이템 개인전(통합)"
+    },
+    {
         "id": "itemNewItemIndiFastest2Enchant",
         "name": "아이템 개인전(가장빠름)"
     },
