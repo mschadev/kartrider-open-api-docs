@@ -114,5 +114,9 @@
     {
         "id": "clubRace_item",
         "name": "클럽 레이싱(아이템)"
+    },
+    {
+        "id": "flagIndi",
+        "name": "깃발 뺏기 개인전"
     }
 ]
