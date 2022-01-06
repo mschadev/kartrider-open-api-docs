@@ -118,5 +118,9 @@
     {
         "id": "flagIndi",
         "name": "깃발 뺏기 개인전"
+    },
+    {
+        "id": "flagTeam",
+        "name": "깃발 뺏기 팀전"
     }
 ]
