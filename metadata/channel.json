@@ -122,5 +122,9 @@
     {
         "id": "flagTeam",
         "name": "깃발 뺏기 팀전"
+    },
+    {
+        "id": "bokbulbokSpeedTeamInfinit",
+        "name": "무한부스터 복불복 팀전"
     }
 ]
