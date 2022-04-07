@@ -4,6 +4,10 @@
         "name": "1 VS 1 대전(스피드, 빠름)"
     },
     {
+        "id": "versusModeIndi",
+        "name": "1 VS 1 대전"
+    },
+    {
         "id": "grandprix_speedIndi",
         "name": "스피드 개인전 그랑프리(빠름)"
     },
